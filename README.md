@@ -1,7 +1,7 @@
 ## LoRA in Action: Training and Inference with Mistral-7B
 
 
-### 📚 Table of Contents
+### Table of Contents
 1. [Introduction](#introduction)
 2. [What is Post-Training of LLMs?](#what-is-post-training-of-llms)
 3. [Understanding Supervised Fine-Tuning (SFT)](#understanding-supervised-fine-tuning-sft)
@@ -11,9 +11,7 @@
 7. [What is LoRA? Why Do We Use It?](#what-is-lora-why-do-we-use-it)
 8. [Mathematics Behind LoRA](#mathematics-behind-lora)
 9. [Code Walkthrough: Fine-Tuning Mistral 7B using LoRA](#code-walkthrough-fine-tuning-mistral-7b-using-lora)
-10. [Training and Validation Loss Plot](#training-and-validation-loss-plot)
-11. [Final Thoughts and Interesting Facts](#final-thoughts-and-interesting-facts)
-12. [References](#references)
+10. [References](#references)
 
 
 ### Introduction
